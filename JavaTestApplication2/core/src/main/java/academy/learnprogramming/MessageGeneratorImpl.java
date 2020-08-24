@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
 
-@Slf4j50
+@Slf4j
 @Component
 public class MessageGeneratorImpl implements MessageGenerator {
 
